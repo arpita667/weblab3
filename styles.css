@@ -1,0 +1,93 @@
+
+body {
+    background-image: url(https://graphicsfamily.com/wp-content/uploads/edd/2021/11/Oil-Gas-Industries-Logo-Design-7-scaled.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-color: whitesmoke;
+    text-align: center; 
+    padding: 20px;
+}
+
+h1 {
+    position: absolute;
+    top: 150px;  
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.form-container {
+    margin-top: 5px;
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
+h5 {
+    color: orange;
+    font-size: 24px;
+    border: solid black;
+    padding: 15px;
+    width: 120px;
+    text-align: center;
+    margin: left; 
+    background-color: white;
+    border-radius: 10px; 
+    
+}
+
+h2 {
+    color: orange;
+    font-size: 22px;
+    border:  solid black;
+    padding: 20px;
+    width: 250px;
+    background-color: white;
+    text-align: center;
+    margin: 20px auto;
+    border-radius: 10px;
+     
+}
+h4 {
+    color: orange;
+    font-size: 24px;
+    border: solid black;
+    padding: 15px;
+    width: 120px;
+    text-align: center;
+    margin: left; 
+    background-color: blue;
+    border-radius: 10px;
+
+}
+
+h3 {
+    color: white;
+    font-size: 20px;
+    border:  solid black;
+    padding: 10px;
+    width: 50px;
+    text-align: center;
+    margin: left;
+    background-color: darkgray;
+    border-radius: 10px;
+}
+
+.btn {
+    
+    top: 400px;  
+    left: 50%;
+    background-color: #orange;
+    color: black;
+    padding: 10px;
+    border: solid;
+    cursor: pointer;
+    font-size: 16px;
+    
+}
